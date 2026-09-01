@@ -13,4 +13,3 @@ final class WebhooksFilamentServiceProvider extends ServiceProvider
         $this->loadViewsFrom(__DIR__.'/../resources/views', 'webhooks-filament');
     }
 }
-
